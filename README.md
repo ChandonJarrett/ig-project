@@ -17,14 +17,7 @@ New users sign up using an email, username, and password. Users are sent prevent
 
 ## 🏠 Home Feed
 
-Once logged in, users are greeted by the home page where they can view a feed containing all public posts from all users, ordered from newest to oldest.
-
-<video width="100%" autoplay muted loop playsinline>
-  <source src="media/home-feed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-These unique posts can also be visited through the use of **Dynamically Routed URLs** where users are also free to leave their peers a like or an encouraging comment!
+Once logged in, users are greeted by the home page where they can view a feed containing all public posts from all users, ordered from newest to oldest. These unique posts can also be visited through the use of **Dynamically Routed URLs** where users are also free to leave their peers a like or an encouraging comment!
 
 <video width="100%" autoplay muted loop playsinline>
   <source src="media/visit-post.mp4" type="video/mp4">
@@ -93,9 +86,11 @@ Clicking the logout button ends the session and redirects the user to the login 
 
 ---
 
-## 📸 Other Screenshots
+## 🗄️ Supabase Configuration
 
-
+<p align="center">
+  <img src="media/database-schema.png" alt="Auth Flow" width="600"/>
+</p>
 
 ---
 
